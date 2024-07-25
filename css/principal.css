@@ -1,0 +1,41 @@
+#inicio{
+    background-image:linear-gradient( rgb(252, 68, 166),rgb(255, 136, 200),rgb(255, 231, 231));
+}
+h1{
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+}
+body{
+    background-color: rgb(218, 148, 171);
+}
+#corpo{
+    border: 10px solid transparent;
+  padding: 10px;
+}
+
+.textojs{
+    text-align: center;
+}
+
+#alinhar{
+    display:inline-table;
+    text-align: center;   
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgba(245, 8, 166, 0.829);
+    display: inline-table;
+    width: 70px;
+    height: 35px;
+}
+td, th {
+    border: 1px solid black;
+    padding: 8px;
+}
